@@ -1,8 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "tests",
-        "--alluredir=my_allure_results"   # настройка для сохранения отчетов
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-}
